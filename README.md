@@ -31,7 +31,9 @@
    @echo off
    pythonw "C:\path\to\server.py"
 
-Add the .bat file to the Startup folder (shell:startup).
+Press Win + R, type shell:startup, and hit Enter.
+
+Place a shortcut to server.py or the .bat file in this folder to run it automatically on startup.
 
 Set up port forwarding on your router:
 
