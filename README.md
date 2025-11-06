@@ -5,7 +5,7 @@ Absolutely! Here's your complete **README.md** file — ready to copy and paste 
 
 **PCxHOOK** is a Python-based remote command execution tool that lets you control a server PC from anywhere. Whether you're across the room or across the country, you can send commands from a client device and have them executed silently on the server's command line.
 
-## 🚀 Features
+# 🚀 Features
 
 - 🔧 Remote command execution via TCP
 - 🔄 Server auto-starts on system boot
@@ -13,9 +13,9 @@ Absolutely! Here's your complete **README.md** file — ready to copy and paste 
 - 🧠 Lightweight and easy to configure
 - 🖥️ Executes any command (e.g., `start notepad`, `ipconfig`, `dir`, `start https://www.google.com`)
 
-## 🛠️ Setup Instructions
+# 🛠️ Setup Instructions
 
-### Server (server.py)
+# Server (server.py)
 
 1. Place `server.py` on the target PC.
 2. Ensure Python is installed.
@@ -29,13 +29,13 @@ Absolutely! Here's your complete **README.md** file — ready to copy and paste 
    - Forward **TCP port 9999** to your server PC’s local IP.
 6. Allow port 9999 through Windows Firewall.
 
-### Client (client.py)
+# Client (client.py)
 
 1. Place `client.py` on your control device.
 2. Edit `SERVER_IP` in `client.py` to match the server’s public IP or DDNS domain.
 3. Run the script and enter any command to execute on the server.
 
-## 🌐 Remote Access
+# 🌐 Remote Access
 
 To access the server from anywhere:
 - Use your public IP or DDNS domain in `client.py`
@@ -45,18 +45,18 @@ To access the server from anywhere:
   telnet your.public.ip 9999
   ```
 
-## ⚠️ Security Warning
+# ⚠️ Security Warning
 
 This tool allows remote command execution. To protect your system:
 - Use strong firewall rules
 - Restrict access to trusted IPs
 - Add authentication or command whitelisting if deploying publicly
 
-## 📄 License
+# 📄 License
 
 This project is open-source and free to use for educational and personal purposes.
 
-## 🙋‍♂️ Author
+# 🙋‍♂️ Author
 
 Created by [Arjun MP]
 ```
