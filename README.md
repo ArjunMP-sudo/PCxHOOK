@@ -1,6 +1,6 @@
 # PCxHOOK
 
-![PCxHOOK Logo](https://via.placeholder.com/600x150?text=PCxHOOK+Remote+Command+Tool)
+![PCxHOOK Logo]([https://via.placeholder.com/600x150?text=PCxHOOK+Remote+Command+Tool](https://as1.ftcdn.net/v2/jpg/06/59/19/60/1000_F_659196081_1ruqvVm3L3i1l7sPbHS1GrwlOJX9Uqsl.jpg))
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
